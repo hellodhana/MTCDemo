@@ -41,13 +41,13 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
+ <!--   <distributionManagement>
         <repository>
             <id>github</id>
             <name>GitHub OWNER Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/Lantern-Cloud-Services/demo-mtc-appdev-jmga-f1</url>
         </repository>
-    </distributionManagement>
+    </distributionManagement> -->
 
     <build>
         <plugins>
